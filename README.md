@@ -1,4 +1,12 @@
-# Dev-Iuri
-Hello Word! Sejam Bem vindos ao meu GitHub.
+# Hey, Devs! ☕
 
-Meu nome é Iuriu Guimarães Guerra, sou iniciante em desenvolvimento Front-End, tenho formação tecnica em Automação industrial, atualmente no segundo semestre no Bacharel de Sistemas da Informação. Iniciando minha jornada no HTML,CSS e JAVASCRIPT.
+##### Repositório destinado para armazenar todo aprendizado dos bootcamps da RocketSeat da NextLevelWeek2.
+
+#### 💡 “Sem disciplina, o talento não serve para nada” 😎
+
+O projeto  _Proffy_  foi criado durante a  **Next Level Week #2**  da  **Rocketseat**, e teve como objetivo a criação de uma plataforma de estudos online onde alunos podem se conectar a professores conforme seus calendários e matérias.
+
+Instrutor:  [Diego Fernandes (CTO Rocketseat)](https://github.com/diego3g)
+
+ 
+[Rocketseat](https://rocketseat.com.br/) © 2020 | Next Level Week #2
